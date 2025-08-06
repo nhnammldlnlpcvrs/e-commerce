@@ -1,4 +1,4 @@
-name: e-commercec_env
+name: e-commerce_env
 channels:
   - defaults
   - conda-forge
