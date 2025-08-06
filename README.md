@@ -1,0 +1,2 @@
+# E-Commerce Shipping Analysis
+This project focuses on analyzing and predicting whether an e-commerce order will be delivered on time based on its attributes. It includes an end-to-end Machine Learning pipeline with a web-based interface and API integration.
