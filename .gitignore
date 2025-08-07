@@ -1,0 +1,58 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# JupyterLab settings
+.jupyter/
+.lab/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Datasets
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.zip
+*.rar
+
+# Output files
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.db
+*.sqlite
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Notebook exports
+*.html
+*.pdf
+
+# Build folders
+build/
+dist/
+out/
+docs/_build/
+
+# Ignore data folders
+data/raw/
+data/processed/
