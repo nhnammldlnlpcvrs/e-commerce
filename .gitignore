@@ -23,7 +23,6 @@ venv/
 *.rar
 
 # Output files
-*.pkl
 *.joblib
 *.h5
 *.hdf5
